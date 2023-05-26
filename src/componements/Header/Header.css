@@ -1,0 +1,6 @@
+.active {
+    color: blue !important;
+  }
+  .navbar .nav-link {
+    text-decoration: none !important;
+  }
